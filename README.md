@@ -1,0 +1,1 @@
+# cpuminer-for-termux

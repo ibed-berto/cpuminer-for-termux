@@ -19,10 +19,10 @@
 #define SCRYPT_CHOOSE_COMPILETIME
 
 //#include "scrypt-jane.h"
-#include "../scryptjane/scrypt-jane-portable.h"
-#include "../scryptjane/scrypt-jane-hash.h"
-#include "../scryptjane/scrypt-jane-romix.h"
-#include "../scryptjane/scrypt-jane-test-vectors.h"
+#include "scryptjane/scrypt-jane-portable.h"
+#include "scryptjane/scrypt-jane-hash.h"
+#include "scryptjane/scrypt-jane-romix.h"
+#include "scryptjane/scrypt-jane-test-vectors.h"
 
 
 #define scrypt_maxN 30  /* (1 << (30 + 1)) = ~2 billion */
